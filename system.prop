@@ -109,3 +109,6 @@ ro.sys.sdcardfs=true
 
 # Time services
 persist.timed.enable=true
+
+# Wifi
+persist.data.iwlan.enable=true
