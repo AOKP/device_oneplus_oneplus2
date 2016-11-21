@@ -392,6 +392,4 @@
 
     <integer name="config_buttonBrightnessSettingDefault">60</integer>
 
-    <!-- Hardware keys on/off option
-    <bool name="config_hwKeysPref">false</bool> -->
 </resources>
