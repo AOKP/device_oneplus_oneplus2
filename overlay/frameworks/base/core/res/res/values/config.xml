@@ -103,9 +103,7 @@
      on the headphone/microphone jack. When false use the older uevent framework -->
     <bool name="config_useDevInputEventForAudioJack">true</bool>
 
-    <!-- Set to true to add links to Cell Broadcast app from Settings and MMS app. -->
-    <bool name="config_cellBroadcastAppLinks">true</bool>
-
+    
     <!-- Hardware keys on/off option -->
     <bool name="config_hwKeysPref">true</bool>
 
